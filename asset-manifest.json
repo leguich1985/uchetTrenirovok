@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/uchetTrenirovok/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/uchetTrenirovok/static/js/main.1a466704.chunk.js",
-    "main.js.map": "/uchetTrenirovok/static/js/main.1a466704.chunk.js.map",
+    "main.css": "/uchetTrenirovok/static/css/main.815d61b4.chunk.css",
+    "main.js": "/uchetTrenirovok/static/js/main.5fc8e0a3.chunk.js",
+    "main.js.map": "/uchetTrenirovok/static/js/main.5fc8e0a3.chunk.js.map",
     "runtime-main.js": "/uchetTrenirovok/static/js/runtime-main.75a4d174.js",
     "runtime-main.js.map": "/uchetTrenirovok/static/js/runtime-main.75a4d174.js.map",
-    "static/js/2.c13be369.chunk.js": "/uchetTrenirovok/static/js/2.c13be369.chunk.js",
-    "static/js/2.c13be369.chunk.js.map": "/uchetTrenirovok/static/js/2.c13be369.chunk.js.map",
+    "static/js/2.945eb3cb.chunk.js": "/uchetTrenirovok/static/js/2.945eb3cb.chunk.js",
+    "static/js/2.945eb3cb.chunk.js.map": "/uchetTrenirovok/static/js/2.945eb3cb.chunk.js.map",
     "index.html": "/uchetTrenirovok/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/uchetTrenirovok/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.c13be369.chunk.js.LICENSE.txt": "/uchetTrenirovok/static/js/2.c13be369.chunk.js.LICENSE.txt"
+    "static/css/main.815d61b4.chunk.css.map": "/uchetTrenirovok/static/css/main.815d61b4.chunk.css.map",
+    "static/js/2.945eb3cb.chunk.js.LICENSE.txt": "/uchetTrenirovok/static/js/2.945eb3cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.75a4d174.js",
-    "static/js/2.c13be369.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.1a466704.chunk.js"
+    "static/js/2.945eb3cb.chunk.js",
+    "static/css/main.815d61b4.chunk.css",
+    "static/js/main.5fc8e0a3.chunk.js"
   ]
 }

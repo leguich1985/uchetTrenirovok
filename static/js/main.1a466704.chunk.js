@@ -1,2 +1,0 @@
-(this.webpackJsonpuchet_trenirovok=this.webpackJsonpuchet_trenirovok||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);var r=n(1),c=n.n(r),o=n(3),i=n.n(o),s=(n(8),n(9),n(0));var u=function(){return Object(s.jsx)("p",{children:"Uchet Trenirovok"})};i.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(u,{})}),document.getElementById("root"))},8:function(t,e,n){},9:function(t,e,n){}},[[11,1,2]]]);
-//# sourceMappingURL=main.1a466704.chunk.js.map
